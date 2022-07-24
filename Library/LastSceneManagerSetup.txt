@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Dcarrick/KSteamPrototype/Scenes/Test/VideoPlayerTest_Yeon.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
